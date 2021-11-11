@@ -1,6 +1,6 @@
 - Hi, I’m @Ca-Hay
 - I’m interested in game development.
-- C#, Javascript, TypeScript.
+- Javascript, TypeScript & C#
 
 <!---
 Ca-Hay/Ca-Hay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
